@@ -8,7 +8,7 @@
 - 🧙‍♀️ Pronomes: Ela/Dela;
 ## ✍ Sobre mim:
 
-Sou aficionada por tecnologia, estou sempre estudando para evolução no meio profissional;
+Sou fascinada por tecnologia desde a infância, sempre muito conectada e interessada em tecnologia e inovação.
 
 Me formei em Design gráfico na Unibratec. Trabalhei como UI e UX Design e Modelista 3D e prototipos industriais.
 
