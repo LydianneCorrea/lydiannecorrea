@@ -1,7 +1,8 @@
 ## 🖖🏼 Oiee! Lydianne Corrêa aqui!
 
-- 👩🏼‍💻 Tec. Desenvolvimento de Sistemas (em andamento);
+- 👩🏼‍💻 Tec. Desenvolvimento de Sistemas;
 - 💜 Aluna @reprograma Back-End class (ON-19).
+- 💗 Aluna @softexpernambuco Front-End FAP#3.
 - 💚 Aluna @gamaacademy HiringCoders#3.
 - 🎓 Graduada em Design Grafico @unibratec;
 - 👩🏼‍🎨 SAGA | Arte, Design, Animação e Games;
